@@ -5,4 +5,5 @@ ROIP MERDEKA is a gathering place for communication activists based on ROIP (Rad
 
 Our Motto:
 "Breaking Boundaries, Uniting INDONESIA!"
+
 http://roipmerdeka.id
