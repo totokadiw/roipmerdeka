@@ -47,10 +47,10 @@ void loop() {
     lastHeartbeatTime_led = millis();
   }
   if (digitalRead(pin_cos) == 0) {
-    rx_signal = 1;
+    rx_signal = 0;
     delay(10);
   } else {
-    rx_signal = 0;
+    rx_signal = 1;
     delay(10);
   }
 }
